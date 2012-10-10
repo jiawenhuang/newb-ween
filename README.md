@@ -1,3 +1,3 @@
 newb-ween
 =========
-Weenie is a newb!
+I am learning how to program... in Python!
